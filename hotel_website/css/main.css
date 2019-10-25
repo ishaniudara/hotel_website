@@ -1,0 +1,160 @@
+
+
+div.header h1{
+	font-size: 48px;
+	color:dodgerblue;
+	font-style:oblique;
+	font-family: comic sons;
+	text-shadow: 2px 3px  slateblue;  }
+
+a{
+	text-decoration: none;
+}
+div.header p{
+	padding:0px;
+	margin-bottom: 0px;
+
+
+}
+div.top_bar{
+	margin:1000px;
+	width:50px;
+	background: maroon;
+}
+
+
+
+
+  .links{
+  	width: 1000px;
+  	background: maroon;
+  	border-radius;
+
+  }
+  .links ul li{
+  	display: inline-block;
+  	margin: 15px;
+  	border-right: 1px solid white;
+  	color: blue;
+
+  }
+  div.text h2{
+  	color: slateblue;
+  	font-size: 36px;
+  	text-shadow: 2px 3px lightblue;
+  }
+  p.detail{
+  	color: mediumseagreen;
+  }
+  div.hotels h2{
+  	color: dodgerblue;
+  	text-shadow: 2px 3px ;
+  }
+.hotels a {
+	float: right;
+	
+
+}
+div.gallery h2{
+	
+	color: dodgerblue;
+  	text-shadow: 2px 3px black
+  	
+  }
+
+
+	.gallery a{
+		float:right;
+
+	}
+	.booking h2{color: maroon;
+
+	}
+	.booking a{
+		float:right;}
+		.booking{
+			width: 900px;
+			height: 400px;
+			background:lightgray;
+		}
+				.hotels{
+			width:900px;
+			height: 400px;
+			background-image: linear-gradient(to right,slateblue,lightgray)
+		
+			
+		}
+
+.contact h2{color: maroon;
+
+	}
+
+.gallery{
+			width: 900px;
+			height: 400px;
+			background-image: linear-gradient(to right,slateblue,lightgray)
+
+		}
+		.meeting{
+			width:900px;
+			height: 400px;
+			background-image: linear-gradient(to right,slateblue,lightgray)
+
+		}div.meeting h2{
+  	
+  	color: dodgerblue;
+  	text-shadow: 2px 3px black;
+  	
+  }
+ .meeting a{ 
+		float:right;
+		color: blue;}
+.contact{
+			width:900px;
+			height: 400px;
+			background:lightgray;}
+			.contact a{ 
+		float:right;}
+*a {
+	font-size: 30px;
+	color: blue;
+}
+div.contact h2{
+  	
+  	color: dodgerblue;
+  	text-shadow: 2px 3px black;
+  	
+  }
+ .contact a{ 
+		float:right;
+		color: blue;}
+.contact{
+			width:900px;
+			height: 400px;
+			background:lightgray;}.contact{
+			width:900px;
+			height: 400px;
+			background-image: linear-gradient(to right,slateblue,lightgray)
+
+		}
+		div.booking h2{
+  	
+  	color: dodgerblue;
+  	text-shadow: 2px 3px black;}
+  	
+		.booking{
+			width:900px;
+			height: 400px;
+			background:lightgray;}.booking{
+			width:900px;
+			height: 400px;
+			background-image: linear-gradient(to right,slateblue,lightgray)
+
+		}
+		.footer{
+			width: 1000px;
+			height: auto;
+			background: gray;
+
+
+}

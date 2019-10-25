@@ -1,0 +1,63 @@
+legend{
+	color:blue;
+	font-size:48px;
+}
+fieldset {
+	border: solid 1px ;
+	background: grey;
+	width: 700px;
+}
+
+p{
+	color: violet
+	;
+}
+h2{
+	color: slateblue;
+}
+
+
+.offers  p{
+text-align: center;
+width: 200px;
+background: violet;
+border-radius: 200px;
+color:blue;
+}
+.room fieldset	{
+	border: solid 5px brown;
+	background: grey; 
+	width: 700px;
+}
+.room input{
+	color:black;
+	font-size: 20px;
+}
+.room form{
+	color:brown;
+	font-family:bold; 
+}
+.room input {
+	color: red;
+	background: black;
+
+}
+.links{
+  	width: 1000px;
+  	background: maroon;
+  	border-radius;
+
+  }
+  .links ul li{
+  	display: inline-block;
+  	margin: 15px;
+  	border-right: 1px solid white;
+
+} 
+h1{
+	color: slateblue;
+	text-shadow: 2px 3px dodgerblue;
+	font-size: 48px;
+	font-family: oblique;
+
+}

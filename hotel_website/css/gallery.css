@@ -1,0 +1,39 @@
+.links{
+  	width: 1000px;
+  	background: maroon;
+  	border-radius;
+
+  }
+  .links ul li{
+  	display: inline-block;
+  	margin: 15px;
+  	border-right: 1px solid white;
+
+} 
+h1{
+	color: slateblue;
+	text-shadow: 2px 3px dodgerblue;
+	font-size: 48px;
+	font-family: oblique;
+
+}
+img{
+	float: 
+	width:500;
+	height: 500;
+
+}
+h2{
+	color: mediumseagreen;
+
+}
+h3{
+	color: slateblue;
+}
+
+.images img{
+	border-radius: 50%;
+	float: right;
+	
+
+}

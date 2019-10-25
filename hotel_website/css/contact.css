@@ -1,0 +1,46 @@
+h2{
+	color:slateblue;
+
+}
+br{
+	color:white;
+}
+.contact{
+	width: 600px;
+	background-image: linear-gradient(to right, gray,lightgray);
+	margin:10px;
+	border: 2px solid black;
+
+
+}
+a{
+text-decoration: none;
+}
+.form input{
+	color: red;
+	background: #eee;
+border-radius: 5px;
+}
+.form{
+	width: 500px;
+
+}
+textarea{
+	background: #eee;
+}
+h1{color: slateblue;
+	text-shadow: 2px 3px dodgerblue;
+	font-size: 48px;
+	font-family: oblique;}
+	.links{
+  	width: 1000px;
+  	background: maroon;
+  	border-radius;
+
+  }
+  .links ul li{
+  	display: inline-block;
+  	margin: 15px;
+  	border-right: 1px solid white;
+
+} 

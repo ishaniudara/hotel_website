@@ -1,0 +1,45 @@
+h1{
+font-size: 48px;
+	color:dodgerblue;
+	font-style:oblique;
+	font-family: comic sons;
+	text-shadow: 2px 3px  slateblue ;
+
+}
+.hotels{
+	background-image: "img2.jpg" ;
+color: slateblue;
+	width: 1000px;
+	height: 900px;
+	background-image: linear-gradient(to right,slateblue,lightgray)
+}
+img{
+	align-content: center;
+}
+p{
+	padding: 20px;
+
+}
+h3{
+	color: slateblue;
+}
+h2{
+	color: violet;
+}
+
+
+
+
+
+.links{
+  	width: 1000px;
+  	background: maroon;
+  	border-radius;
+
+  }
+  .links ul li{
+  	display: inline-block;
+  	margin: 15px;
+  	border-right: 1px solid white;
+
+} 

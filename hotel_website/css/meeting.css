@@ -1,0 +1,60 @@
+
+h2{
+
+	color: slateblue;
+	
+}
+h3{color:green;
+
+}
+.events{
+	float: left;
+	width: 500px;
+
+
+}
+.request{
+	float: right;
+	width: 400px;
+}
+hr
+{
+	color: black;
+}
+input{
+	color: white;
+	background:dodgerblue;
+}select{
+	color:blue;
+
+
+	;
+}.links{
+  	width: 1000px;
+  	background: maroon;
+  	border-radius;
+
+  }
+  .links ul li{
+  	display: inline-block;
+  	margin: 15px;
+  	border-right: 1px solid white;
+
+} 
+h1{
+	color: slateblue;
+	text-shadow: 2px 3px dodgerblue;
+	font-size: 48px;
+	font-family: oblique;
+
+}
+.events{
+	background-image:linear-gradient(to right,gray,lightgray); 
+border: 3px solid black;
+}
+.request{
+	background-image:linear-gradient(to right,gray,lightgray); 
+border: 3px solid black;
+height: 605px;
+width: 460px
+}
